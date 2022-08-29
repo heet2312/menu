@@ -18,4 +18,5 @@ const Categories = ({ categories, filterItems }) => {
     </div>
   );
 };
+
 export default Categories;
